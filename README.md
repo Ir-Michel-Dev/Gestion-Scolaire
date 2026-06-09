@@ -26,9 +26,25 @@ Gestion-Scolaire est une application développée avec VBA Access pour automatis
 
 Cette application a été conçue pour simplifier le travail administratif des établissements scolaires et améliorer la gestion des informations académiques.
 
-## Auteur
+## Captures d'écran
 
-Michel Jules Kabinda.
+### Page d'accueil
+![Page d'accueil](PAGE D'ACCEUIL.PNG)
+
+### Menu de paiement
+![Menu de paiement](CHOIX DE PAIEMENT.PNG)
+
+### Formulaire de paiement
+![Formulaire de paiement](FORMULAIRE DE PAIEMENT.PNG)
+
+### Gestion des paiements
+![Gestion des paiements](BASE DE DONNEE.PNG)
+
+### Reçu de paiement
+![Reçu de paiement](PREUVE DE PAIEMENT.PNG)
+
+## Auteur
+Ir Michel Jules Kabinda.
 
 Développeur VBA Access et concepteur d'applications de gestion.
 
