@@ -1,4 +1,4 @@
-# Gestion-Scolaire
+# Système de Gestion des Frais Scolaires (SGFS)
 
 ## Présentation
 
