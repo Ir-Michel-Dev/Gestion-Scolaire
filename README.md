@@ -30,7 +30,7 @@ Cette application a été conçue pour simplifier le travail administratif des �
 
 ### Page de connexion
 <p align="center">
-  <img src="PAGE DE CONNXION.PNG" width="250">
+  <img src="CONNEXION.PNG" width="250">
 </p>
 
 ### Page d'accueil
