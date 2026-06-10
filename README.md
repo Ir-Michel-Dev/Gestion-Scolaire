@@ -29,19 +29,29 @@ Cette application a été conçue pour simplifier le travail administratif des �
 ## Captures d'écran
 
 ### Page d'accueil
-![Page d'accueil](PAGE D'ACCEUIL.PNG)
+<p align="center">
+  <img src="PAGE D'ACCEUIL.PNG" width="250">
+</p>
 
 ### Menu de paiement
-![Menu de paiement](CHOIX DE PAIEMENT.PNG)
+<p align="center">
+  <img src="CHOIX DE PAIEMENT.PNG" width="250">
+</p>
 
 ### Formulaire de paiement
-![Formulaire de paiement](FORMULAIRE DE PAIEMENT.PNG)
+<p align="center">
+  <img src="FORMULAIRE DE PAIEMENT.PNG" width="250">
+</p>
 
 ### Gestion des paiements
-![Gestion des paiements](BASE DE DONNEE.PNG)
+<p align="center">
+  <img src="BASE DE DONNEE.PNG" width="250">
+</p>
 
 ### Reçu de paiement
-![Reçu de paiement](PREUVE DE PAIEMENT.PNG)
+<p align="center">
+  <img src="PREUVE DE PAIEMENT.PNG" width="250">
+</p>
 
 ## Auteur
 Ir Michel Jules Kabinda.
