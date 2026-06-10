@@ -28,6 +28,11 @@ Cette application a été conçue pour simplifier le travail administratif des �
 
 ## Captures d'écran
 
+### Page de connexion
+<p align="center">
+  <img src="PAGE DE CONNXION.PNG" width="250">
+</p>
+
 ### Page d'accueil
 <p align="center">
   <img src="PAGE D'ACCEUIL.PNG" width="250">
@@ -43,14 +48,15 @@ Cette application a été conçue pour simplifier le travail administratif des �
   <img src="FORMULAIRE DE PAIEMENT.PNG" width="250">
 </p>
 
-### Gestion des paiements
-<p align="center">
-  <img src="BASE DE DONNEE.PNG" width="250">
-</p>
-
 ### Reçu de paiement
 <p align="center">
   <img src="PREUVE DE PAIEMENT.PNG" width="250">
+</p>
+
+
+### Gestion des paiements
+<p align="center">
+  <img src="BASE DE DONNEE.PNG" width="250">
 </p>
 
 ## Auteur
