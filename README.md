@@ -30,33 +30,33 @@ Cette application a été conçue pour simplifier le travail administratif des �
 
 ### Page de connexion
 <p align="center">
-  <img src="CONNEXION.PNG" width="250">
+  <img src="CONNEXION.PNG" width="500">
 </p>
 
 ### Page d'accueil
 <p align="center">
-  <img src="PAGE D'ACCEUIL.PNG" width="250">
+  <img src="PAGE D'ACCEUIL.PNG" width="500">
 </p>
 
 ### Menu de paiement
 <p align="center">
-  <img src="CHOIX DE PAIEMENT.PNG" width="250">
+  <img src="CHOIX DE PAIEMENT.PNG" width="500">
 </p>
 
 ### Formulaire de paiement
 <p align="center">
-  <img src="FORMULAIRE DE PAIEMENT.PNG" width="250">
+  <img src="FORMULAIRE DE PAIEMENT.PNG" width="500">
 </p>
 
 ### Reçu de paiement
 <p align="center">
-  <img src="PREUVE DE PAIEMENT.PNG" width="250">
+  <img src="PREUVE DE PAIEMENT.PNG" width="500">
 </p>
 
 
 ### Gestion des paiements
 <p align="center">
-  <img src="BASE DE DONNEE.PNG" width="250">
+  <img src="BASE DE DONNEE.PNG" width="500">
 </p>
 
 ## Auteur
